@@ -1,3 +1,1 @@
-# gestaoColaboradores
-
-# Projeto criado para avaliação de C# na Isla Gaia com o Paulo Guimarães, Letícia Lima e Ivanildo Silva
+Project made for a C# test in Isla Gaia classes
